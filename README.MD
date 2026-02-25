@@ -1,4 +1,19 @@
 # About Me
+
+---
+```diff
+- ## Important
+- 
+- Hello! This is HackVogel, my Discord account has been falsely terminated...
+- 
+- I am currently in the process of getting my account back, but in the meantime 
+- I am active on the Discord account bootloaderfix.
+- 
+- More information to follow...
+
+Account status: ![Status](https://img.shields.io/badge/Status-Account_Terminated-red?style=for-the-badge)
+---
+
 **Hello 👋,
 I'm HackVogel and I program all kinds of things.**
 
