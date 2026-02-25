@@ -10,6 +10,7 @@
 - I am active on the Discord account bootloaderfix.
 - 
 - More information to follow...
+```
 
 Account status: ![Status](https://img.shields.io/badge/Status-Account_Terminated-red?style=for-the-badge)
 ---
