@@ -1,8 +1,9 @@
 # About Me
 
 ---
+## Important
+
 ```diff
-- ## Important
 - 
 - Hello! This is HackVogel, my Discord account has been falsely terminated...
 - 
