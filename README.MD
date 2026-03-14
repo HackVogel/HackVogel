@@ -12,7 +12,7 @@
 - Username: HackVogel
 ```
 
-Account status: ![Status](https://img.shields.io/badge/Status-Account_Terminated-red?style=for-the-badge)
+Account status: ![Status](https://img.shields.io/badge/Status-Account_RESTORED-green?style=for-the-badge)
 ---
 
 **Hello 👋,
