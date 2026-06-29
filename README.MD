@@ -1,19 +1,6 @@
 # About Me
 
 ---
-## Important
-
-```diff
-- 
-- Hello! This is HackVogel, i restored my Discord account.
--
-- Add me on Discord.
--
-- Username: HackVogel
-```
-
-Account status: ![Status](https://img.shields.io/badge/Status-Account_RESTORED-green?style=for-the-badge)
----
 
 **Hello 👋,
 I'm HackVogel and I program all kinds of things.**
